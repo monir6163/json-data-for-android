@@ -1,0 +1,24 @@
+{
+    "video": [
+        {
+            "title": "Video 1",
+            "url": "http://www.youtube.com/embed/1iIZeIy7TqM",
+            "id": "1"
+        },
+        {
+            "title": "Video 2",
+            "url": "http://www.youtube.com/embed/1iIZeIy7TqM",
+            "id": "2"
+        },
+        {
+            "title": "Video 3",
+            "url": "http://www.youtube.com/embed/1iIZeIy7TqM",
+            "id": "3"
+        },
+        {
+            "title": "Video 4",
+            "url": "http://www.youtube.com/embed/1iIZeIy7TqM",
+            "id": "4"
+        }
+    ]
+}
